@@ -2,6 +2,7 @@ Flask
 Flask-SQLAlchemy
 Flask-Login
 Flask-Bcrypt
+psycopg[binary]
 gunicorn==25.1.0
 packaging==26.0
 uv==0.9.21
